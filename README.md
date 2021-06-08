@@ -33,3 +33,8 @@ Documentação da modelagem do banco de dados encontra-se no documento [.\Rox-te
 ### 🎲 Script de criação das tabelas
 
 O script para geração das tabelas utilizadas neste teste localiza-se em  [.\Rox-test\Scripts\criação tabelas.sql]
+
+### 🎲 Scripts SQL
+
+
+Os scripts realizados para execução das tarefas elencadas na base de dados localizam-se em  [.\Rox-test\Scripts\]
