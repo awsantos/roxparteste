@@ -36,5 +36,4 @@ O script para geração das tabelas utilizadas neste teste localiza-se em  [.\Ro
 
 ### 🎲 Scripts SQL
 
-
-Os scripts realizados para execução das tarefas elencadas na base de dados localizam-se em  [.\Rox-test\Scripts\]
+Os scripts realizados para execução das tarefas elencadas na base de dados localizam-se em  [.\Rox-test\Scripts\], sendo os arquivos QueryXX.sql
